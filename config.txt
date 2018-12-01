@@ -1,6 +1,6 @@
 token=NTE2MjY5NDcxMjA0MjQ1NTA0.Dt-MaA.kWQK70ZbRxC_r2ZnpDlXTXdRIu8
 owner=372362173185392650
-prefix= D
-game= Dplay
+prefix= .
+game= .play
 stayinchannel=true
 songinstatus=true 
